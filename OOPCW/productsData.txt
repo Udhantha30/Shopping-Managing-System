@@ -1,0 +1,5 @@
+C1,Men Shirt,10,1500.0,S,Black
+C2,Women Frock,9,3500.0,M,Pink
+E1,Rice Cooker,10,12000.0,LG,12
+E2,Iron,9,15000.0,Samsung,24
+E3,TV,8,130000.0,OLAN,16
